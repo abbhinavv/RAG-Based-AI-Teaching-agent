@@ -1,3 +1,9 @@
-Sure! The section on HTML heading tags is covered in Video 4. You will find this information starting at approximately 3 minutes and 27 seconds into the video.
+The concept of tables was primarily covered during Video 5. In this specific portion dedicated entirely or partially focused on images lists and HTML table structures.
 
-You should head over there when you're ready for more details about headings, paragraphs, links, or any other topic mentioned under that video's title "Heading, Paragraphs and Links." Happy learning!
+Here are some key timestamps within video number "5":
+1. From minute 00:28 (728.64 seconds) till around minute 01:03 (738.64 seconds), there's a discussion about how to group elements using `<th>` tags, with an emphasis placed upon the content inside of `td` and other table-related attributes.
+2. Another significant section starts at approximately minute 02:00 (480.64 seconds). This part discusses row span (`rowspan`) which determines multiple rows that will be spanned by a specific cell in your HTML tables.
+
+For more detailed guidance on these concepts, you can watch Video "5" starting from the first timestamp up to around two minutes into this video segment or focus solely between approximately 0:28 (728.64 seconds) and 1 minute plus three seconds duration within that same section for a comprehensive understanding of table-related HTML elements.
+
+Remember not all videos contain complete content on tables; Video "5" stands out as it dives more deeply with practical examples into using `<table>`, `tr` tags, along with explanations around nested headers (`<th>`), body and foot sections in the context of an overall table structure. If you have further queries about HTML or any specific concepts discussed within video 5's timeframe (around minute marks such as starting from approximately second count beginning at 728 up to roughly 738 + a few seconds into that segment) feel free to ask!
